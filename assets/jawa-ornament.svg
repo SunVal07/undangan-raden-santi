@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#d7ad63"/><stop offset=".5" stop-color="#f5d993"/><stop offset="1" stop-color="#9b6b2b"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="1.2"/></filter>
+</defs>
+<g fill="none" stroke="url(#g)" stroke-width="3" opacity=".72">
+ <path d="M20 95 C90 45 160 55 215 96 C275 50 365 65 395 112 C430 70 520 65 568 104 C630 55 730 62 780 104 C830 78 870 86 890 104"/>
+ <path d="M65 150 C105 132 148 136 176 157 M704 150 C748 132 796 136 833 158"/>
+ <path d="M60 390 C105 360 150 360 196 389 M700 390 C750 360 802 362 846 390"/>
+</g>
+<!-- flying birds -->
+<g fill="none" stroke="#d7ad63" stroke-width="5" stroke-linecap="round" opacity=".7">
+ <path d="M250 205 q18 -18 36 0 q18 -18 36 0"/>
+ <path d="M600 235 q16 -15 32 0 q16 -15 32 0"/>
+ <path d="M420 70 q13 -12 26 0 q13 -12 26 0"/>
+</g>
+<!-- stylized wayang silhouettes -->
+<g fill="#5b0714" opacity=".13">
+ <path d="M128 318 C112 286 112 247 130 225 C142 211 151 196 151 178 C151 163 143 150 131 141
+ C143 128 162 121 180 126 C193 130 204 139 210 151 C196 157 187 168 185 181
+ C183 198 196 211 208 226 C224 247 224 284 208 318 L186 318 L181 356 L156 356 L151 318 Z"/>
+ <path d="M692 318 C676 286 676 247 694 225 C706 211 715 196 715 178 C715 163 707 150 695 141
+ C707 128 726 121 744 126 C757 130 768 139 774 151 C760 157 751 168 749 181
+ C747 198 760 211 772 226 C788 247 788 284 772 318 L750 318 L745 356 L720 356 L715 318 Z"/>
+</g>
+<!-- central Javanese ornament -->
+<g fill="none" stroke="url(#g)" stroke-width="3" opacity=".6">
+ <path d="M365 365 C390 342 415 342 450 365 C485 342 510 342 535 365"/>
+ <path d="M450 342 C438 326 438 309 450 296 C462 309 462 326 450 342 Z"/>
+ <path d="M397 365 C407 348 417 339 430 335 M503 365 C493 348 483 339 470 335"/>
+</g>
+</svg>
